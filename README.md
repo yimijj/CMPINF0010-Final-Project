@@ -2,7 +2,7 @@
 __Overview__
 
 
-__Team Name: Team Name__  
+##3Team Name: Team Name### 
 [Canvas - Final Project Group 12]  
 Van Huynh - VAH51@pitt.edu  
 Lucas Drinen - LED25@pitt.edu  
