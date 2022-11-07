@@ -11,3 +11,5 @@ Min Yi Ida Jiang - MIJ82@pitt.edu
 ### Description & Links to Datasets Used
 
 https://data.wprdc.org/dataset/city-of-pittsburgh-public-art
+https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations
+https://data.wprdc.org/dataset/greenways
