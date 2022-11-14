@@ -1,6 +1,6 @@
 # CMPINF0010-Final-Project
 ### Overview
-
+Using data from the WPRDC to determine whats the best Pittsburgh neighborhood to visit.
 
 ### Team Name: Team Name 
 **Canvas - Final Project Group 12**
